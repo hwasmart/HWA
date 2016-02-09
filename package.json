@@ -1,0 +1,26 @@
+{
+  "name": "hwa",
+  "version": "1.0.0",
+  "description": "华云智联前端JS框架",
+  "main": "dist/js/hwa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwasmart/HWA.git"
+  },
+  "author": "yezhichao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwasmart/HWA/issues"
+  },
+  "homepage": "https://github.com/hwasmart/HWA#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-uglify": "^0.11.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
